@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jiaying Xiong ♡ New Media UNIMAP</title>
+    <title>Jiaying Xiong ♡ New Media</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -28,7 +28,7 @@
             <img src="images/profile.jpg" alt="Jiaying" class="avatar">
             <div class="home-text">
                 <h1>Hi! I'm Xiong Jiaying (๑>◡<๑)</h1>
-                <p>New Media | Universiti Malaysia Perlis (UNIMAP)</p>
+                <p>New Media | University: In Malaysia</p>
                 <p>ENFP | Coffee & Puppy & Dessert Lover 💖</p>
             </div>
         </div>
@@ -39,7 +39,7 @@
     <div class="container">
         <h2 class="title">About Me ૮₍˶•༝•˶₎ა</h2>
         <div class="about-content">
-            <p>I am an outgoing ENFP student majoring in New Media at UNIMAP.
+            <p>I am an outgoing ENFP student majoring in New Media.
             I love coffee, cute little dogs and all sweet desserts 🍰.
             I enjoy staying close to nature and making new warm friends 💓.</p>
         </div>
@@ -50,7 +50,7 @@
     <div class="container">
         <h2 class="title">Education 📚</h2>
         <div class="edu-card">
-            <h3>UNIMAP ˚ʚ♡ɞ˚</h3>
+            <h3>University: In Malaysia ˚ʚ♡ɞ˚</h3>
             <p>Programme: New Media</p>
             <p>Current Undergraduate Student</p>
         </div>
@@ -96,8 +96,8 @@
         <h2 class="title">Contact 💌</h2>
         <div class="contact-text">
             <p>Name: Xiong Jiaying</p>
-            <p>Course: New Media, UNIMAP</p>
-            <p>Email: s241420050-5@studentmail.unimap.edu.my</p>
+            <p>Course: New Media</p>
+            <p>Email: yintiantoo@gmail.com</p>
         </div>
     </div>
 </section>
